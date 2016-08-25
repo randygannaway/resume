@@ -1,0 +1,40 @@
+body {
+    background: url("../img/skills.jpg") fixed no-repeat;
+    background-size: cover;
+}
+
+#front {
+    position: fixed;
+}
+
+#front h1 {
+    color: #ff3300;
+    text-shadow: -2px 2px black;
+}
+
+#resume {
+    background: rgba(38, 26, 13, 0.6);
+    margin-top: 5%;
+}
+
+#resume p {
+    background-color: white;
+    padding: 10px;
+}
+
+#resume h4 {
+    color: #d9d9d9;
+}
+
+.section-title {
+    background-color: black;
+}
+
+.list-group .list-group-item {
+    background-color: #d9d9d9;
+}
+
+.row {
+    margin-top: 10px;
+}
+

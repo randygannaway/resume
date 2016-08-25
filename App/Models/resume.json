@@ -1,0 +1,8 @@
+{"resume":{
+    "name":"Randy Gannaway",
+    "summary":"This is where the summary goes.",
+    "skills":["PHP","MySQL","HTML","CSS","Vue.js","Linux","R"],
+    "degrees":[{"degree":"MA","school":"Illinois State University","focus":"Spanish","year":2016},{"degree":"BA","school":"Illinois State University","focus":"Spanish","year":2014}],
+    "ongoingEducation":[{"course":"Write PHP like a pro: build an mvc framework from scratch","source":"Udemy","year":2016},{"course":"The complete SQL bootcamp","source":"Udemy","year":2016}]
+    }
+} 
